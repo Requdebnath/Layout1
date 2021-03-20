@@ -1,0 +1,189 @@
+*{  margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+a {
+	text-decoration: none;
+}
+
+
+.header{width: 100%;
+	overflow: hidden;
+	border-bottom: 2px solid #dcd8d8;
+	
+
+}
+.container{width: 1140px;
+	margin: auto;
+	
+}
+.nav{width: 100%;
+	float: left;
+	padding: 24px 0;
+	
+
+}
+.logo{width: 20%;
+	float: left;
+
+
+}
+.menu{width: 80%;
+	line-height: 34px;
+	padding-left: 70%;
+}
+.logo img{
+
+}
+.menu ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 18px;
+
+}
+.menu ul li a{
+	color: #535c68;
+	font-size: 18px;
+	
+}
+.menu ul li a:hover {
+	color: #0086f8;
+
+}
+
+.luck{
+	overflow: hidden;
+}
+
+.luck h1 {
+	text-align: center;
+	line-height: 60px;
+	font-size: 50px;
+	margin-top: 15px;
+}
+.luck p{
+	margin: 20px 0;
+	color: grey;
+	text-align: center;
+
+}
+
+.luck span {
+	color: #0086f8;
+}
+.logo1{
+	padding-left: 30%;
+
+} 
+.Successfull{
+	margin-top: 70px;
+	overflow: hidden;
+}
+.left{
+	width: 49%;
+	float: left;
+	text-align: right;
+	margin-right: 2%;
+
+}
+.left h1{
+	color:red;
+	font-size: 50px;
+
+}
+.left p{
+	color: #4b4e89;
+	font-size: 15px;
+	line-height: 30px;
+
+}
+.right{
+	font-size: 20px;
+	color: #30336b;
+
+}
+.creativity{
+	margin: 80px 0;
+	overflow: hidden;
+}
+	
+
+
+.logo-one .text{
+	margin-left: 25px;
+}
+
+.logo-one{
+	width: 25%;
+	background-color: #FDEBED;
+	margin-left: 10.5%;
+	overflow: hidden;
+	float: left;
+}
+.logo-one h3{
+	color: #30336b;
+	
+}
+.logo-one p{
+	padding-top: 15px;
+	line-height: 25px;
+	padding-bottom: 50px;
+	font-size: 15px;
+	color: #51548e;
+}
+.logo-two .text{
+	margin-left: 25px;
+}
+
+.logo-two{
+	width: 25%;
+	background-color: #EBF9F4;
+	overflow: hidden;
+	float: left;
+	margin-left: 2%;
+}
+.logo-two h3{
+	color: #30336b;
+	
+}
+.logo-two p{
+	padding-top: 15px;
+	line-height: 25px;
+	padding-bottom: 50px;
+	font-size: 15px;
+	color: #51548e;
+}
+.logo-three .text{
+	margin-left: 25px;
+}
+
+.logo-three{
+	width: 25%;
+	background-color: #FFF7E8;
+	overflow: hidden;
+	float: left;
+	margin-left: 2%;
+}
+.logo-three h3{
+	color: #30336b;
+	
+}
+.logo-three p{
+	padding-top: 15px;
+	line-height: 25px;
+	padding-bottom: 50px;
+	font-size: 15px;
+	color: #51548e;
+}
+.logo-three img{
+	width: 100%;
+}
+.bottom{
+	text-align: center;
+	background-color: #327bf2;
+	color: gainsboro;
+	padding: 30px 0;
+}
+.bottom b{
+	color: white;
+}
